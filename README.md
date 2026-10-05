@@ -1,6 +1,4 @@
-# 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
-
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./video.mp4)
+# 🚀 Rahul Dewangan - Developer Portfolio (React + TypeScript + Three.js)
 
 A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
 
