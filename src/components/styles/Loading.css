@@ -80,7 +80,7 @@
   transform: translate(-50%, -50%);
   filter: blur(30px);
   opacity: 1;
-  transition: opacity 500ms;
+  transition: none;
 }
 
 .loading-wrap:hover .loading-hover {
