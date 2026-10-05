@@ -68,13 +68,19 @@ const Contact = () => {
                 {config.contact.email}
               </a>
             </p>
+            <h4>Phone</h4>
+            <p>
+              <a href={`tel:${config.contact.phone}`} data-cursor="disable">
+                +91 {config.contact.phone}
+              </a>
+            </p>
             <h4>Location</h4>
             <p>
               <span>{config.social.location}</span>
             </p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
+            <h4>Profiles & Links</h4>
             <a
               href={config.contact.github}
               target="_blank"
@@ -82,7 +88,7 @@ const Contact = () => {
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              GitHub <MdArrowOutward />
             </a>
             <a
               href={config.contact.linkedin}
@@ -91,34 +97,16 @@ const Contact = () => {
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              LinkedIn <MdArrowOutward />
             </a>
             <a
-              href={config.contact.twitter}
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href={config.contact.facebook}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Facebook <MdArrowOutward />
-            </a>
-            <a
-              href={config.contact.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
+              Resume PDF <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">

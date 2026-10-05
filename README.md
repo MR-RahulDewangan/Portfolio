@@ -6,7 +6,7 @@ A modern, high-performance **3D developer portfolio website** built with **React
 
 If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
 
-> Live preview: https://www.redoyanulhaque.me/
+> Developer Portfolio of Rahul Dewangan
 
 ---
 
@@ -35,7 +35,7 @@ If you’re a developer looking for a **portfolio template** that feels premium,
 ### 1) Clone
 
 ```bash
-git clone https://github.com/red1-for-hek/portfolio-website.git
+git clone https://github.com/MR-RahulDewangan/portfolio.git
 cd portfolio-website
 ```
 
@@ -70,19 +70,10 @@ Typical things you’ll want to update:
 
 ---
 
-## ⭐ Support
-
-If you found this useful:
-
-- Please **star** the repository (it helps a lot)
-- Share it with a friend who needs a portfolio template
-- Sponsor via the **Sponsor** button on GitHub (if available in your region)
-
----
-
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
+- LinkedIn: https://www.linkedin.com/in/rahul-dewangan-0723733
+- GitHub: https://github.com/MR-RahulDewangan
 
 ---
 
