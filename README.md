@@ -70,7 +70,7 @@ Typical things you’ll want to update:
 
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/rahul-dewangan-0723733
+- LinkedIn: https://in.linkedin.com/in/rahul-dewangan-072373323
 - GitHub: https://github.com/MR-RahulDewangan
 
 ---

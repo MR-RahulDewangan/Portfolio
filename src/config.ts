@@ -103,7 +103,7 @@ export const config = {
         email: "rahuldewangan11106@gmail.com",
         phone: "8839661616",
         github: "https://github.com/MR-RahulDewangan",
-        linkedin: "https://www.linkedin.com/in/rahul-dewangan-0723733",
+        linkedin: "https://in.linkedin.com/in/rahul-dewangan-072373323",
         location: "Raipur, India"
     },
     skills: {
